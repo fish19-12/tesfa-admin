@@ -79,7 +79,7 @@ const Bookings = () => {
 
       if (!registration) return;
 
-      await registration.showNotification("💎 New Fiyorina Order", {
+      await registration.showNotification("💎 New Tesfa Chiffon Order", {
         body: `${order.customer?.name || "Customer"} placed a new bridal order`,
 
         icon: "https://cdn-icons-png.flaticon.com/512/1827/1827392.png",
@@ -304,7 +304,7 @@ const Bookings = () => {
 
       <div className={styles.topHeader}>
         <div>
-          <h1 className={styles.title}>💎 Fiyorina Orders</h1>
+          <h1 className={styles.title}>💎 Tesfa Chiffon Orders</h1>
 
           <p className={styles.subtitle}>Manage bridal orders professionally</p>
         </div>

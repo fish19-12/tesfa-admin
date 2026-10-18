@@ -142,7 +142,7 @@ const AdminGallery = () => {
   };
 
   const deleteImage = async (id) => {
-    const confirmDelete = window.confirm("Delete this Fiyorina design?");
+    const confirmDelete = window.confirm("Delete this Tesfa Chiffon design?");
 
     if (!confirmDelete) return;
 
@@ -175,7 +175,7 @@ const AdminGallery = () => {
         </div>
 
         <div>
-          <h1>Fiyorina Gallery Studio</h1>
+          <h1>Tesfa Chiffon Gallery Studio</h1>
 
           <p>Manage luxury fashion collections</p>
         </div>

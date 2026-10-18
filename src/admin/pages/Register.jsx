@@ -85,7 +85,11 @@ const Register = () => {
         {/* HEADER */}
         <div className={styles.header}>
           <div className={styles.logoWrapper}>
-            <img src={logo} alt="Fiyorina Admin" className={styles.logo} />
+            <img
+              src={logo}
+              alt="Tesfa Chiffon Admin"
+              className={styles.logo}
+            />
           </div>
 
           <div className={styles.badge}>

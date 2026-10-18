@@ -76,7 +76,7 @@ const Dashboard = () => {
           </div>
 
           <div>
-            <h1>Fiyorina Luxury</h1>
+            <h1>Tesfa Chiffon</h1>
 
             <p>Admin Control Center</p>
           </div>

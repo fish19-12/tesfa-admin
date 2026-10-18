@@ -55,7 +55,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }) => {
           ========================= */}
 
           <h2 className={styles.logo}>
-            Fiyorina Chiffon <span>Admin</span>
+            Tesfa Chiffon <span>Admin</span>
           </h2>
 
           {/* =========================

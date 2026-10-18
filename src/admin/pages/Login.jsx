@@ -100,7 +100,7 @@ const Login = () => {
         <div style={{ textAlign: "center" }}>
           <img
             src={logo}
-            alt="Feyorina Admin"
+            alt="Tesfa Chiffon Admin"
             style={{
               width: "88px",
               height: "88px",
@@ -123,11 +123,11 @@ const Login = () => {
               WebkitTextFillColor: "transparent",
             }}
           >
-            Fiyorina Chiffon
+            Tesfa Chiffon
           </h2>
 
           <p style={{ fontSize: "13px", opacity: 0.6, marginTop: "6px" }}>
-            Luxury Admin Dashboard
+            Tesfa Chiffon Admin Dashboard
           </p>
         </div>
 

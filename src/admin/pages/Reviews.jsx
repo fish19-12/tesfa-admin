@@ -185,7 +185,7 @@ const Reviews = () => {
         <div>
           <h1>Customer Reviews</h1>
 
-          <p>Manage Fiyorina customer feedback</p>
+          <p>Manage Tesfa Chiffon customer feedback</p>
         </div>
 
         <div className={styles.countCard}>
